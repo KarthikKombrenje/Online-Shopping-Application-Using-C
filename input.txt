@@ -1,0 +1,9 @@
+PJ 3
+HJ 5
+HHJ 2
+gg 5
+jj 1
+hh 5
+hh 1
+hh 3
+
