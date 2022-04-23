@@ -1,4 +1,4 @@
-A Simple Online Shopping Application using C**
+A Simple Online Shopping Application using C
 -A user Register and Login interface.
 -Capability to choose from a large variety of items.
 -Automatic billing with discount.
